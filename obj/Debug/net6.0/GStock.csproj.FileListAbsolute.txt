@@ -1,0 +1,15 @@
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\bin\Debug\net6.0\GStock.exe
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\bin\Debug\net6.0\GStock.deps.json
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\bin\Debug\net6.0\GStock.runtimeconfig.json
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\bin\Debug\net6.0\GStock.dll
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\bin\Debug\net6.0\GStock.pdb
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\obj\Debug\net6.0\GStock.csproj.AssemblyReference.cache
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\obj\Debug\net6.0\GStock.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\obj\Debug\net6.0\GStock.AssemblyInfoInputs.cache
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\obj\Debug\net6.0\GStock.AssemblyInfo.cs
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\obj\Debug\net6.0\GStock.csproj.CoreCompileInputs.cache
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\obj\Debug\net6.0\GStock.dll
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\obj\Debug\net6.0\refint\GStock.dll
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\obj\Debug\net6.0\GStock.pdb
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\obj\Debug\net6.0\GStock.genruntimeconfig.cache
+E:\Cours Polythec\Année 4\Semestre 8\Programation C#\GStock\obj\Debug\net6.0\ref\GStock.dll
